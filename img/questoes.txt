@@ -1,0 +1,42 @@
+O que é um repositório no Git e qual a sua importância?
+R: Um repositório Git (ou repositório) é um local de armazenamento para um projeto, que contém todos os arquivos do projeto, a estrutura de pastas, e o histórico completo das alterações ao longo do tempo (os commits). Sua importância reside em permitir o versionamento do código, o rastreamento de mudanças, a colaboração entre desenvolvedores (mesmo remotamente) e a capacidade de reverter a um estado anterior do projeto, garantindo a segurança e organização do trabalho
+
+Qual a função do Git Bash?
+R:O Git Bash serve para fornecer um ambiente de linha de comando no Windows que emula os sistemas operacionais Linux e macOS, permitindo que os utilizadores utilizem comandos Git para gerir o versionamento de projetos e scripts .sh que não funcionariam nativamente no Windows.
+
+O que faz o comando git add e qual a diferença entre git add <arquivo> e git add .?
+R: Git add: adiciona seu diretório de trabalho à área de preparação, indicando o git quais arquivos ou mudanças devem ser incluídos no próximo commit.
+ git add <arquivo>: adiciona as alterações de um arquivo específico ao índice ou área de staging, preparando-o para ser incluído no próximo commit enquanto o Git add . Adiciona todas as alterações  no diretório atual
+
+
+
+Por que utilizamos o ponto (.) no comando git add .?
+
+R: é utilizado pra dizer  oque o git deve adicionar a partido "."
+
+Explique o comando git commit e por que é importante criar uma mensagem descritiva.
+
+R: registra as alterações que foram adicionada e a mensagem é importante porque ajuda enteder o que você mudou
+
+Qual a função do comando git push?
+
+R: subir o diretório pro GitHub
+
+Qual a importância de criar commits frequentes durante o desenvolvimento de um projeto?
+
+R: para manter o histórico organizado e facilita mudanças
+
+Explique a função das tags HTML e como elas estruturam uma página.
+
+R:
+
+O que são atributos em uma tag HTML e qual a sua função?
+O que é o Emmet e como ele facilita o desenvolvimento de páginas HTML?
+O que é o box-sizing no CSS e por que usamos ele no reset inicial?
+Por que é importante utilizar tags semânticas no HTML?
+O que são media queries no CSS e qual a sua função?
+Qual a função do GitHub Pages?
+O que é o Flexbox no CSS e para que ele é utilizado?
+Qual a diferença entre justify-content e align-items em um container Flexbox?
+Como o flex-grow funciona e qual o seu propósito no layout Flexbox?
+Explique a diferença entre flex-direction: column; e flex-direction: row;.
