@@ -28,15 +28,47 @@ R: para manter o histórico organizado e facilita mudanças
 
 Explique a função das tags HTML e como elas estruturam uma página.
 
-R:
+R: usados para estruturar e organizar o conteúdo de uma página web. Elas dizem ao navegador como exibir textos, imagens, links, vídeos e outros tipos de conteúdo.
 
 O que são atributos em uma tag HTML e qual a sua função?
+
+R: são os elementos fundamentais usados para estruturar e organizar o conteúdo de uma página web. Elas dizem ao navegador como exibir textos, imagens, links, vídeos e outros tipos de conteúdo.
+
 O que é o Emmet e como ele facilita o desenvolvimento de páginas HTML?
+
+R:  é um kit de ferramnetas para desenvolvimento web que acelera drasticamente o processo de escrita de HTML e CSS
+
 O que é o box-sizing no CSS e por que usamos ele no reset inicial?
+
+R: determina se a largura e a altura de um elemento HTML incluem ou não o preenchimento e a borda. utilizamos ele no reset inicial para torna o layout mais previsível
+
 Por que é importante utilizar tags semânticas no HTML?
+
+R:As tags semânticas permitem que os mecanismos de busca identifiquem facilmente o título da página, o conteúdo principal e as seções secundárias
+
 O que são media queries no CSS e qual a sua função?
+
+R:As media queries no CSS são regras que permitem aplicar estilos diferentes dependendo de características específicas do dispositivo. permite aplicar estilos de forma condicional
+
 Qual a função do GitHub Pages?
+
+R: fornecer um serviço de hospedagem de sites estáticos diretamente de um repositório do GitHub
+
+
 O que é o Flexbox no CSS e para que ele é utilizado?
+
+R:um método capaz de organizar espacialmente os elementos em uma interface, além de possuir capacidades avançadas de alinhamento.
+
 Qual a diferença entre justify-content e align-items em um container Flexbox?
+
+R: justify-content atua no Eixo principal (horizontal) Alinha os itens entre si (Esquerda  Direita) e align-items Eixo transversal (vertical) Alinha os itens individualmente(Topo e Fundo)
+
 Como o flex-grow funciona e qual o seu propósito no layout Flexbox?
+
+R: a propriedade flex-grow permite aumentar a largura dos elementos dentro do contêiner para completar o espaço disponível no eixo principal
+
 Explique a diferença entre flex-direction: column; e flex-direction: row;.
+
+R:Flex-direction: row; Os itens ficam lado a lado (em linha horizontal). Flex-direction: column; Os itens ficam um embaixo do outro (em coluna vertical).
+
+
